@@ -15,8 +15,8 @@ Este repositorio está dedicado únicamente al flujo de **Retención** dentro de
 > Cada equipo debe comunicarse; la entrega seguirá la estrategia de ramas y será revisada por el profesor Juan Jo.
 
 ## Rentención - Equipo 6
-Iván Molina
-Juanes Garcés
-Andrés Pachecho
-Franklin Chaverra
-Maicol Montoya
+1. Iván Molina
+2. Juanes Garcés
+3. Andrés Pachecho
+4. Franklin Chaverra
+5. Maicol Montoya
