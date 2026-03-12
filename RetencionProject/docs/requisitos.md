@@ -16,7 +16,3 @@
 - **Mantenibilidad**: código modular con pruebas unitarias.
 - **Portabilidad**: ejecutar en Linux o Windows sin cambios.
 
-## Roles del equipo
-
-- Líder técnico: *[Nombre a definir]*
-- Scrum Master: *[Nombre a definir]*
