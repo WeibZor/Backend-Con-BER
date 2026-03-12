@@ -13,3 +13,10 @@ Este repositorio está dedicado únicamente al flujo de **Retención** dentro de
 8. Generar historias de usuario en `docs/historias_usuario.md`.
 
 > Cada equipo debe comunicarse; la entrega seguirá la estrategia de ramas y será revisada por el profesor Juan Jo.
+
+## Rentención - Equipo 6
+## Iván Molina
+## Juanes Garcés
+## Andrés Pachecho
+## Franklin Chaverra
+## Maicol Montoya
